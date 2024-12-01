@@ -105,13 +105,13 @@ export default function Portfolio() {
                   name: "Project 3",
                   image: "/addtocart.png",
                   description: "Add To Cart Functionality",
-                  link: "/https://www.linkedin.com/posts/althaf-khan-patan-80a721214_reactjs-webdevelopment-ecommerce-activity-7260587456763166720-LCYv?utm_source=share&utm_medium=member_desktop",
+                  link: "https://www.linkedin.com/posts/althaf-khan-patan-80a721214_reactjs-webdevelopment-ecommerce-activity-7260587456763166720-LCYv?utm_source=share&utm_medium=member_desktop",
                 },
                 {
                   name: "Project 4",
                   image: "/expire.png",
                   description: "Expiry System",
-                  link: "/https://github.com/althaf11/xpire",
+                  link: "https://github.com/althaf11/xpire",
                 },
               ].map((project, index) => (
                 <div key={index} className="bg-gray-100 rounded-lg shadow-lg p-6">
